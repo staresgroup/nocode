@@ -5,3 +5,6 @@
 > 道生一，一生二，二生三，三生万物。
 >
 > ​																	-- 《道德经》
+
+No code is the final programming thought.
+
